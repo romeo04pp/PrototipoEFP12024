@@ -8,8 +8,8 @@
 #include<iomanip>
 
 #include "Bitacora.h"
-#include "Usuario.h"
-#include "Clientes.h"
+#include "Usuarios.h"
+#include "Cliente.h"
 
 using namespace std;
 

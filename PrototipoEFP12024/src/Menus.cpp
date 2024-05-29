@@ -9,7 +9,8 @@
 #include <ctime>
 
 Clientes traerMenuC;
-Usuario traerMenu;
+Clientes imprimirClientes;
+Usuarios traerMenu;
 Bitacora imprimirBitacora;
 
 void Menus::menuInicial(string nombreUsuario)
@@ -104,7 +105,7 @@ void Menus::menuCatalogos(string nombreUsuario)
 
     case 2:{
         system("cls");
-        traerMenu.menuUsuarios(userName);
+        traerMenu.menuUsuario(userName);
     break;
     }
     case 3:{
@@ -148,7 +149,7 @@ void Menus::subMenuInformes(string nombreUsuario)
     {
     case 1:{
        system("cls");
-       //imprimirBitacora.imprimirDatosBitacora();
+       imprimirClientes.imprimirCliente();
     break;
     }
     case 2:

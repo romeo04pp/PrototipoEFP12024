@@ -107,7 +107,7 @@ void Usuarios::menuUsuario(string nombreUsuario)
 
             break;
         case 4:
-            borrarUsuario(userName);
+            borrarUsuario();
             enviarDatosU.ingresoDatosBitacora(userName,"1004","DUS");
 
             break;

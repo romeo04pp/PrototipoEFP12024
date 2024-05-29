@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1716999079 source:c:\users\home\desktop\materiales u\3ersemestre\progra1\prototipoefp12024\prototipoefp12024\src\bitacora.cpp
+	"Bitacora.h"
+
+1716999079 c:\users\home\desktop\materiales u\3ersemestre\progra1\prototipoefp12024\prototipoefp12024\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1716997015 source:c:\users\home\desktop\materiales u\3ersemestre\progra1\prototipoefp12024\prototipoefp12024\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Usuarios.h"
+
+1716997721 c:\users\home\desktop\materiales u\3ersemestre\progra1\prototipoefp12024\prototipoefp12024\include\usuarios.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1717000870 c:\users\home\desktop\materiales u\3ersemestre\progra1\prototipoefp12024\prototipoefp12024\include\menus.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+	"Usuarios.h"
+	"Cliente.h"
+
+1717000268 c:\users\home\desktop\materiales u\3ersemestre\progra1\prototipoefp12024\prototipoefp12024\include\cliente.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Bitacora.h"
+	"Menus.h"
+
+1717001036 source:c:\users\home\desktop\materiales u\3ersemestre\progra1\prototipoefp12024\prototipoefp12024\src\menus.cpp
+	"Menus.h"
+	"Usuarios.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1717001217 source:c:\users\home\desktop\materiales u\3ersemestre\progra1\prototipoefp12024\prototipoefp12024\src\usuarios.cpp
+	"Usuarios.h"
+
