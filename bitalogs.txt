@@ -1,0 +1,47 @@
+commit e0c565e5bb8888a36082be9b9b972f7513ac8007
+Author: Pablo Palencia <ppalenciar1@miumg.edu.gt>
+Date:   Wed May 29 10:49:48 2024 -0600
+
+    Examen final terminado
+
+commit 6109adca37e888af37c746f541e54e7d783ef0f5
+Author: Pablo Palencia <ppalenciar1@miumg.edu.gt>
+Date:   Wed May 29 10:11:43 2024 -0600
+
+    Implementando bitacora
+
+commit 00caca12517f9635171897c427298d6e235428be
+Author: Pablo Palencia <ppalenciar1@miumg.edu.gt>
+Date:   Wed May 29 10:08:29 2024 -0600
+
+    clases menus
+
+commit 9b2d4934dc754a7706e119cd52874df0aca9e1c5
+Author: Pablo Palencia <ppalenciar1@miumg.edu.gt>
+Date:   Wed May 29 09:49:30 2024 -0600
+
+    Clase usuario creada
+
+commit 7a106c3ff81f54c52e2f93e90b49879f9322d6d6
+Author: Pablo Palencia <ppalenciar1@miumg.edu.gt>
+Date:   Wed May 29 09:39:25 2024 -0600
+
+    Estructura principal
+
+commit e2786241b138e4db41c38591f43cdf72e74913fe
+Author: Pablo Palencia <ppalenciar1@miumg.edu.gt>
+Date:   Wed May 29 09:35:06 2024 -0600
+
+    Creacion de clases
+
+commit 37e45c4d348277e877627e85be7e783a455bdbd8
+Author: Pablo Palencia <ppalenciar1@miumg.edu.gt>
+Date:   Wed May 29 09:31:05 2024 -0600
+
+    Inicio de trabajo para examen final, Pablo Palencia 736
+
+commit e37a2ecc859c6e3c29a2f21d53494ad238db19fc
+Author: Pablo <156860497+romeo04pp@users.noreply.github.com>
+Date:   Wed May 29 09:20:44 2024 -0600
+
+    Initial commit
