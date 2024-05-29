@@ -1,0 +1,18 @@
+admin          1000           LGI            Wed May 29 10:51:59 2024
+
+admin          1001           CUS            Wed May 29 10:52:19 2024
+
+admin          1002           RUS            Wed May 29 10:52:23 2024
+
+admin          1003           UUS            Wed May 29 10:52:37 2024
+
+Pablo          1000           LGI            Wed May 29 10:52:59 2024
+
+Pablo          2001           CCL            Wed May 29 10:53:39 2024
+
+Pablo          2002           RCL            Wed May 29 10:53:42 2024
+
+Pablo          2003           UCL            Wed May 29 10:54:08 2024
+
+Pablo          2001           CCL            Wed May 29 10:54:33 2024
+

@@ -21,9 +21,8 @@ void Clientes::menuClientes(string nombreUsuario)
     cout<<"\t\t\t 1. Registrar Clientes"<<endl;
 	cout<<"\t\t\t 2. Imprimir Clientes"<<endl;
 	cout<<"\t\t\t 3. Modificar Clientes"<<endl;
-	//cout<<"\t\t\t 4. Buscar Clientes"<<endl;
-	cout<<"\t\t\t 5. Borrar Clientes"<<endl;
-	cout<<"\t\t\t 6. Regresar"<<endl;
+	cout<<"\t\t\t 4. Borrar Clientes"<<endl;
+	cout<<"\t\t\t 5. Regresar"<<endl;
     cout << "\n\n\t\t\t---------------------------------------";
     cout << "\n\t\t\t|     Opciones a escoger: 1/2/3/4/5     ";
     cout << "\n\t\t\t---------------------------------------";
